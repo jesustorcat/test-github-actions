@@ -1,0 +1,12 @@
+{
+  "name": "test-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Testing github actions with a simple Node.js application"
+}

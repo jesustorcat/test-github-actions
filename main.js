@@ -19,3 +19,4 @@ console.log(message);
 if (message !== "Hello, World") {
   throw new Error("The greeting is not correct");
 }
+// New comment!
